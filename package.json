@@ -1,6 +1,6 @@
 {
   "name": "my-portfoliyo",
-  "homepage": "https://kavindu0818.github.io/My-Portfoliyo",
+  "homepage": "https://github.com/kavindu0818/My-Portfoliyo.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
+    "@types/aos": "^3.0.7",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@types/react-scroll": "^1.8.10",
