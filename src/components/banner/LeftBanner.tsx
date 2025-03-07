@@ -23,8 +23,7 @@ const LeftBanner: React.FC = () => {
             <Cursor cursorBlinking={false} cursorStyle="|" cursorColor="rgb(250 204 21)" />
           </h2>
           <p className="text-sm sm:text-base leading-6 tracking-wide text-gray-300 max-w-[85%] mx-auto lg:mx-0">
-            I use animation as a third dimension to simplify experiences and guide interactions.
-            I’m not adding motion just for aesthetics, but to enhance usability.
+            As a tech enthusiast, I’m always excited to explore new ideas and trends in the digital world. I love staying updated on the latest advancements and discovering the cool innovations in technology.
           </p>
 
           {/* Download CV Button */}
