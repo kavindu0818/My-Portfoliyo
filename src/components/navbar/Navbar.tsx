@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
 
             {/* Center Section: KMW Text */}
-            <h1 className="text-white text-xl relative -left-50 font-bold">KMW</h1>
+            <h1 className="text-white text-xl relative -left-50 font-bold"></h1>
 
             {/* Right Section: Desktop Menu & Mobile Toggle */}
             <div className="flex items-center gap-6">
