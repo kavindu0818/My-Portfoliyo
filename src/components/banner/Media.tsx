@@ -2,7 +2,7 @@ import { FaFacebookF, FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 const Media = () => {
     return (
-        <div className="flex flex-col items-center lg:items-start gap-4">
+        <div className="flex flex-col items-center lg:items-start gap-4 pb-25">
             {/* Social Media Links */}
             <h2 className="text-base uppercase font-titleFont text-gray-400">
                 Find me on

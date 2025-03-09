@@ -35,8 +35,8 @@ const LeftBanner: React.FC = () => {
           </div>
 
           {/* Media Component - Now correctly positioned below the button */}
-          <div className="mt-6">
-            <Media />
+          <div className="mt-2">
+            <Media/>
           </div>
         </div>
       </div>

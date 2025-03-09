@@ -1,5 +1,6 @@
 import LeftBanner from "./LeftBanner";
 import RightBanner from "./RightBanner";
+
 // import Media from "./Media.tsx";
 
 const Banner = () => {

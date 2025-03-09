@@ -10,7 +10,7 @@ const Aboutme = () => {
       >
         {/* Title */}
         <div className="flex justify-center items-center text-center mb-8">
-          <Title title="MY SELF" des="About Me" />
+          <Title title="A little bit about who I am" des="About Me" />
         </div>
 
         <div className="max-w-6xl w-full flex flex-col lg:flex-row items-center gap-10">

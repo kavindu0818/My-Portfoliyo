@@ -6,16 +6,14 @@ const Education = () => {
       <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1, transition: { duration: 0.5 } }}
-          className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
+          className="w-full flex flex-col gap-10 lgl:gap-20"
       >
         {/* part one */}
-        <div>
+        <div className="w-full">
           <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
             {/* You can add more content here */}
           </div>
-          <div
-              className="mt-6 lgl:mt-14 w-full h-[auto] border-l-[6px]  flex flex-col gap-12 relative"
-          >
+          <div className="flex flex-col gap-12 relative w-full sm:w-auto">
             {/* Content here */}
             <ResumeCard
                 title="Graduate Diploma in Software Engineering"
@@ -37,8 +35,6 @@ const Education = () => {
             />
           </div>
         </div>
-
-        {/* part Two */}
       </motion.div>
   );
 };

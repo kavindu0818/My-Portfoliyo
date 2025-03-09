@@ -32,7 +32,7 @@ const Skills = () => {
             className="w-full h-full flex flex-col items-center justify-center px-5 md:px-10 border-b border-white font-titleFont bg-[#191b1e] pb-15"
         >
             <div className="flex justify-center items-center text-center mb-8">
-                <Title title="" des="Skills" />
+                <Title title="Technologies I am proficient in" des="Skills" />
             </div>
 
             {/* Using CSS Grid to organize sections into columns */}

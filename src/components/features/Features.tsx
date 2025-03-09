@@ -10,7 +10,7 @@ const Features = () => {
         >
             {/* Centered Title */}
             <div className="w-full flex justify-center text-center">
-                <Title title="SERVICE" des="What I Do" />
+                <Title title="What I can do for you" des="Services" />
             </div>
 
             {/* Cards Section */}
