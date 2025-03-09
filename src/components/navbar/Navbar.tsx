@@ -64,7 +64,7 @@ const Navbar = () => {
                             <img className="w-32" src={logo} alt="logo"/>
                         </div>
                         <p className="text-sm text-gray-400 mt-2">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum soluta perspiciatis molestias enim cum repellat, magnam exercitationem distinctio aliquid nam.
+                            As a tech enthusiast, I’m always excited to explore new ideas and trends in the digital world. I love staying updated on the latest advancements and discovering the cool innovations in technology.
                         </p>
 
                         {/* Mobile Navigation Links */}
