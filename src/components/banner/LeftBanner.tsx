@@ -1,6 +1,7 @@
 import React from "react";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 import Media from "./Media";
+import cv from "../../assets/cv/kavindu.pdf";
 
 const LeftBanner: React.FC = () => {
   const [text] = useTypewriter({
@@ -27,12 +28,16 @@ const LeftBanner: React.FC = () => {
           </p>
 
           {/* Download CV Button */}
+          {/* Download CV Button */}
           <div className="flex justify-center lg:justify-start">
-            <button className="w-40 h-10 bg-bodyColor text-white font-bold border border-white rounded-b-2xl
-          hover:bg-yellow-400 hover:scale-105 transition-all duration-300 hover:text-black">
-              Download CV
-            </button>
+            <a href={cv} download="Kavindu Madhuranga Wijerathna.pdf">
+              <button className="w-40 h-10 bg-bodyColor text-white font-bold border border-white rounded-b-2xl
+      hover:bg-yellow-400 hover:scale-105 transition-all duration-300 hover:text-black">
+                Download CV
+              </button>
+            </a>
           </div>
+
 
           {/* Media Component - Now correctly positioned below the button */}
           <div className="mt-2">
