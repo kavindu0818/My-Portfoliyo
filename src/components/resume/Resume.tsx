@@ -21,7 +21,7 @@ const Resume = () => {
                             educationData ? "border-designColor rounded-lg" : "border-transparent"
                         } resumeLi cursor-pointer py-2 text-center`}
                     >
-                        Education
+                        {/*Education*/}
                     </li>
                     {/* Add other sections like Skills, Experience, etc., if needed */}
                 </ul>
