@@ -8,6 +8,7 @@ import Projects from "./components/projects/Projects.tsx";
 import Contact from "./components/contact/Contact.tsx";
 import Skills from "./skills/Skills.tsx";
 import Footer from "./components/footer/Footer.tsx";
+import Achivements from "./components/Acchivement/Achivements.tsx";
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
             <Skills></Skills>
             <Features></Features>
             <Projects></Projects>
+            <Achivements></Achivements>
             <Contact></Contact>
             <Footer></Footer>
         </div>

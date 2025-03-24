@@ -5,7 +5,7 @@ import cv from "../../assets/cv/kavindu.pdf";
 
 const LeftBanner: React.FC = () => {
   const [text] = useTypewriter({
-    words: ["Software Engineer.", "Full Stack Developer."],
+    words: [ "Full Stack Developer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,

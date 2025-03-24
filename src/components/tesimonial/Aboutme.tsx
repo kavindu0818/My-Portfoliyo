@@ -23,7 +23,7 @@ const Aboutme = () => {
             />
             <div className="text-center">
               <h3 className="text-2xl font-bold text-white">Kavindu Madhuranga</h3>
-              <p className="text-base text-yellow-400">Software Engineer</p>
+              <p className="text-base text-yellow-400">Full Stack Developer</p>
             </div>
           </div>
 
